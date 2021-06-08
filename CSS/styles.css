@@ -1,0 +1,157 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+  color: #40514E;
+  font-weight: bold;
+
+}
+
+.Top {
+  background-color: #522546;
+  position: relative;
+  padding-top: 100px;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Indie Flower', cursive;
+  font-size: 375%;
+  color: #E23E57;
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 2.5rem;
+  color: #E23E57;
+}
+
+h3 {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 1.5rem;
+  color: #88304E;
+}
+
+.Middle {
+margin: 100px 0;
+}
+
+.Bottom {
+  padding-top: 50px;
+  background-color: #E23E57;
+  padding-bottom: 50px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 600px;
+  bottom: 300px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 600px;
+  top: 50px;
+}
+
+p {
+  font-size: 1.1rem;
+    line-height: 2;
+
+}
+
+a {
+  color: #88304E;
+}
+
+a:hover {
+  color: white;
+}
+
+.header-text {
+  font-weight: normal;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+
+
+}
+.computer {
+  width: 25%;
+float: left;
+margin-right: 30px;
+}
+.controller {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: Helvetica;
+   width: 179px;
+   font-size: 25px;
+   font-weight: 200;
+   padding: 30px;
+   background-color: #311D3F;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #000000 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 40px;
+
+
+}
+
+.footer-link {
+  color: #311D3F;
+  padding: 20px;
+  font-weight: bolder;
+}
+
+.copyright {
+  color: white;
+  padding: 20px 0;
+  font-size: 0.95rem;
+}
+
+hr {
+  border: dotted #522546 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 50px auto 100px auto;
+
+
+}
+
+.contact-me {
+  margin: 100px 0;
+}
+
+.intro {
+  width: 30%;
+  margin: 0 auto 25px auto;
+
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 30px;
+}
